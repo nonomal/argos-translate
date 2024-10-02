@@ -153,6 +153,7 @@ rm -r ~/.local/share/argos-translate
 - [DesktopTranslator](https://github.com/ymoslem/DesktopTranslator) - [OpenNMT](https://opennmt.net/) based translation application
 - [LibreTranslate-rs](https://github.com/grantshandy/libretranslate-rs) - LibreTranslate Rust bindings
 - [LibreTranslate Go](https://github.com/SnakeSel/libretranslate) - LibreTranslate Golang bindings
+- [LibreTranslate Java](https://github.com/dynomake/libretranslate-java) - LibreTranslate Java bindings
 - [LibreTranslator](https://gitlab.com/BeowuIf/libretranslator) - LibreTranslate Android app
 - [LiTranslate](https://community.libretranslate.com/t/litranslate-ios-app/333) - iOS LibreTranslate client
 
@@ -186,9 +187,6 @@ You can help support Argos Translate financially by purchasing hosting through t
 - [DigitalOcean](https://m.do.co/c/a1af57be6e3f) - Best all around hosting
 - [Sharktech](https://portal.sharktech.net/aff.php?aff=1181) - Cheap bandwith
 - [Time4VPS](https://www.time4vps.com/?affid=6929) - Cheap storage
-
-#### Argos Translate 2 beta
-A beta version of Argos Translate 2 is available to install from source from the [v2 branch on GitHub](https://github.com/argosopentech/argos-translate/tree/v2). Argos Translate 2 has a [multilingual model architecture](https://community.libretranslate.com/t/multilingual-translation-with-ctranslate2-and-pre-trained-fairseq-models/178/), more extensive unit testing, and a more experimental orientation.
 
 ## Contributing
 Contributions are welcome! Bug reports, pull requests, documentation writing, and feature ideas are all appreciated.
